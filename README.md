@@ -15,3 +15,5 @@ It will be opened automatically in your default browser
  - TestNG
  - Selenium WebDriver
  - Allure
+ 
+ Of course a lot of things can be done better, but it depends on free time =)
